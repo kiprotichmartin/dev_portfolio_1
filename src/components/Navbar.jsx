@@ -17,7 +17,7 @@ function Navbar() {
       </ul>
       {/* CTA button */}
       <button class="bg-mustard text-eerie-black px-4 py-2 text-2xl">
-        <a href="/resume/Martin_Kosgei_Resume.pdf" download>
+        <a href="/resume/Martin_Kosgei_Resume.docx" download>
           Download CV
         </a>
       </button>
